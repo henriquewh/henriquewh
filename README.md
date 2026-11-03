@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./assets/anime.gif" alt="Retro Anime" width="100%" />
+</div>
+
+<br/>
+
 ### Olá, eu sou o Henrique 👋
 
 Desenvolvedor **Full Stack** com foco em arquitetura de software, automação de infraestrutura e desenvolvimento de sistemas escaláveis.
